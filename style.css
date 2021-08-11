@@ -1,0 +1,43 @@
+body {
+  background-color: #18191a;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 0.7px;
+}
+
+h1,
+#player-el {
+  font-family: "Insolent";
+  font-size: 34px;
+  color: #228c22;
+  text-align: center;
+
+  margin-top: 13px;
+}
+
+#player-el {
+  border-top: 1.5px solid #228c22;
+  padding-top: 13px;
+
+  letter-spacing: 1.3px;
+}
+
+#message-el {
+  color: 228c22;
+}
+
+p {
+  color: whitesmoke;
+}
+
+#sum-el {
+  border-bottom: 1.5px solid #228c22;
+  padding-bottom: 13px;
+}
+
+button {
+  width: 100%;
+  display: block;
+  margin: 3px 0;
+  padding: 13px;
+}
