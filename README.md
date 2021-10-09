@@ -1,4 +1,5 @@
 # Black Jack
+*solid sprint for simulating an interactive environment, using booleans, sayHello() function, document.getElementById(), Math.floor/Math.random, if statements, and for loop ... simple while powerful code*
 
 
 
